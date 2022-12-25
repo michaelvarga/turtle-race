@@ -1,0 +1,1 @@
+To run the turtle race game, press ctrl + R
